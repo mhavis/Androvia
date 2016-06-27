@@ -1,0 +1,127 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "fine-uploader",
+        "scope": null,
+        "escapedName": "fine-uploader",
+        "name": "fine-uploader",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/mhavis"
+    ]
+  ],
+  "_from": "fine-uploader@latest",
+  "_id": "fine-uploader@5.10.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/fine-uploader",
+  "_nodeVersion": "4.4.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/fine-uploader-5.10.0.tgz_1466096467409_0.8337618454825133"
+  },
+  "_npmUser": {
+    "name": "rnicholus",
+    "email": "github@garstasio.com"
+  },
+  "_npmVersion": "2.14.20",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "fine-uploader",
+    "scope": null,
+    "escapedName": "fine-uploader",
+    "name": "fine-uploader",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/fine-uploader/-/fine-uploader-5.10.0.tgz",
+  "_shasum": "33d1f14d3d51c607e681deda829f75df42794e09",
+  "_shrinkwrap": null,
+  "_spec": "fine-uploader",
+  "_where": "/Users/mhavis",
+  "author": {
+    "name": "Widen Enterprises, Inc."
+  },
+  "bugs": {
+    "url": "https://github.com/FineUploader/fine-uploader/issues"
+  },
+  "dependencies": {},
+  "description": "Multiple file upload plugin with progress-bar, drag-and-drop, direct-to-S3 & Azure uploading, client-side image scaling, preview generation, form support, chunking, auto-resume, and tons of other features.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "33d1f14d3d51c607e681deda829f75df42794e09",
+    "tarball": "https://registry.npmjs.org/fine-uploader/-/fine-uploader-5.10.0.tgz"
+  },
+  "engines": {
+    "node": "0.10.33"
+  },
+  "homepage": "https://github.com/FineUploader/fine-uploader#readme",
+  "keywords": [
+    "amazon",
+    "api",
+    "aws",
+    "azure",
+    "chunk",
+    "chunking",
+    "cross-domain",
+    "cross-site",
+    "drag",
+    "drop",
+    "file",
+    "file-input",
+    "file-uploader",
+    "input",
+    "jquery",
+    "jquery-plugin",
+    "multiple",
+    "preview",
+    "progress",
+    "resume",
+    "s3",
+    "selection",
+    "upload",
+    "widget"
+  ],
+  "license": "MIT",
+  "main": "lib/traditional.js",
+  "maintainers": [
+    {
+      "name": "rnicholus",
+      "email": "github@garstasio.com"
+    }
+  ],
+  "name": "fine-uploader",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FineUploader/fine-uploader.git"
+  },
+  "scripts": {},
+  "title": "Fine Uploader",
+  "version": "5.10.0",
+  "warnings": [
+    {
+      "code": "ENOTSUP",
+      "required": {
+        "node": "0.10.33"
+      },
+      "pkgid": "fine-uploader@5.10.0"
+    },
+    {
+      "code": "ENOTSUP",
+      "required": {
+        "node": "0.10.33"
+      },
+      "pkgid": "fine-uploader@5.10.0"
+    }
+  ]
+}

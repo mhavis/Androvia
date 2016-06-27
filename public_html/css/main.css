@@ -3,22 +3,22 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body{    
+    color: #000088;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+nav{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
 .displayBox{
     background-color: #000066;
     background: linear-gradient(#ffffff, #00eeff);
     color: #000055;
-    margin: 0px;
-    //border: 0px;
     padding: 20px;
 }
-
-
-
-
-
-
-
-
-
-
 
